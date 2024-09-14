@@ -435,8 +435,6 @@ O objeto response é usado para manipular e enviar respostas HTTP. Abaixo estão
 - **`writeHead(statusCode: number, headers?: OutgoingHttpHeaders | OutgoingHttpHeader[])`**: Escreve o código de status e define os cabeçalhos da resposta antes que a resposta seja enviada. 
 
 ---
-
-Se precisar de mais informações ou ajustes, estou à disposição!
   
 
 ## Licença
