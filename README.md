@@ -1,5 +1,3 @@
-Claro! Vou atualizar o README para incluir todas as opções da interface `Options` do `formidable`. Vou adicionar detalhes sobre cada uma das opções, bem como as opções personalizadas fornecidas anteriormente. 
-
 ---
 
 # Xperi - Micro-framework Node.js
