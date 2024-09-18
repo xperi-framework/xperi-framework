@@ -440,5 +440,6 @@ O objeto response é usado para manipular e enviar respostas HTTP. Abaixo estão
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+Autor : João Vitor Machado Rorato @joaozerofive
 
 ---
